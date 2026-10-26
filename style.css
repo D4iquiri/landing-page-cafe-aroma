@@ -238,7 +238,9 @@ body {
     }
 }
 /* TABLET (largura de 769px até 1024px) */
-
+@media (min-width: 769px) and (max-width:1024px) {
+    /* Aqui irá os estilos para Tablet */
+}
 @media(max-width: 758px){
     .logo{
         font-size: 1rem;
